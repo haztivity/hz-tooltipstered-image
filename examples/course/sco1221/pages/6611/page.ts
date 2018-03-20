@@ -5,7 +5,7 @@
 import {PageFactory, PageRegister, PageController} from "@haztivity/core";
 import * as Prism "prismjs";
 import "prismjs/components/prism-typescript";
-import "prismjs/components/prism-jade";
+import "prismjs/components/prism-pug";
 import template from "./page.pug";
 import "./page.scss";
 //Import tooltipster
