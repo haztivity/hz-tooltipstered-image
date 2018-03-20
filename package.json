@@ -1,6 +1,6 @@
 {
   "name": "@haztivity/hz-tooltipstered-image",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Haztivity wrapper for jq-tooltipstered-image",
   "main": "dist/HzTooltipsteredImage.js",
   "module": "dist/HzTooltipsteredImage.js",
